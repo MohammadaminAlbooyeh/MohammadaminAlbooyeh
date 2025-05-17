@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MohammadaminAlbooyeh/MohammadaminAlbooyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! I'm Amin
 
-Here are some ideas to get you started:
+### 🔧 Skills:
+- 💻 Programming: Python, Java
+- 🌐 Web Development: HTML, CSS, django, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact:
+- 📧 Email: amin.albooyeh@gmail.com.com
+
+
+### 📌 About Me:
+I’m a passionate developer who loves building useful and creative software. Always learning something new and looking for interesting projects to work on!
+
