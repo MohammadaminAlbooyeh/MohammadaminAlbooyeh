@@ -7,7 +7,7 @@
 - 🌐 Web Development: HTML, CSS, django, Flask
 
 ### 📫 Contact:
-- 📧 Email: amin.albooyeh@gmail.com.com
+- 📧 Email: amin.albooyeh@gmail.com
 
 
 ### 📌 About Me:
