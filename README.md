@@ -2,7 +2,7 @@
 
 ### 🔧 Skills:
 - 💻 Programming: Python, Java
-- 🌐 Web Development: HTML, CSS, django, Flask
+- 🌐 Web Development: HTML, CSS, Django, Spring Boot
 
 ### 📫 Contact:
 - 📧 Email: amin.albooyeh@gmail.com
