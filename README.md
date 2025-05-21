@@ -1,8 +1,10 @@
 ## 👋 Hi there! I'm Amin
 
 ### 🔧 Skills:
-- 💻 Programming: Python, Java
+- 💻 Programming: Java, Python
 - 🌐 Web Development: HTML, CSS, Django, Spring Boot
+- 🐧 Linux & Bash Scripting: Command-line tools, Shell automation, Server setup
+
 
 ### 📫 Contact:
 - 📧 Email: amin.albooyeh@gmail.com
