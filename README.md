@@ -1,4 +1,6 @@
-## 👋 Hi there! I'm Amin
+## 👋 Hi there! I'm Ali
+
+I'm a passionate developer who enjoys building efficient and creative solutions. Always exploring new technologies and improving my skills!
 
 ### 🔧 Skills:
 - 💻 Programming: Java, Python
