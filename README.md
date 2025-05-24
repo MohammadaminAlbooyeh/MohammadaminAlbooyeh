@@ -5,6 +5,7 @@ I'm a passionate developer who enjoys building efficient and creative solutions.
 ### 🔧 Skills:
 - #### 💻 Programming Languages
 - Python 🐍
+- Java ☕
 - 🌐 Web Development: HTML, CSS, Django, Spring Boot
 - 🐧 Linux & Bash Scripting: Command-line tools, Shell automation, Server setup
 
