@@ -9,6 +9,8 @@ I'm a passionate developer who enjoys building efficient and creative solutions.
 - Java ☕
 
 #### 🐧 Linux & Bash
+- Linux system administration
+- Bash scripting for automation
 
 ### 📫 Contact:
 - 📧 Email: amin.albooyeh@gmail.com
