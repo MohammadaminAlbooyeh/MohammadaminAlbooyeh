@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Ali
+## 👋 Hi there! I'm Amin
 
 I'm a passionate developer who enjoys building efficient and creative solutions. Always exploring new technologies and improving my skills!
 
