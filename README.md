@@ -22,6 +22,7 @@ I'm a passionate developer who enjoys building efficient and creative solutions.
 - [Hotel Booking App](https://vercel.com/amins-projects-ef4df836/hotel-booking-app)
 - [Showcase Website](https://vercel.com/amins-projects-ef4df836/showcase-website)
 - [Weather Dashboard](https://vercel.com/amins-projects-ef4df836/weather-dashboard)
+- [Algorithm_lab](https://mohammadaminalbooyeh-algorithm-lab-app-bham3n.streamlit.app)
 
 ### 📌 About Me:
 I’m a passionate developer who loves building useful and creative software. Always learning something new and looking for interesting projects to work on!
