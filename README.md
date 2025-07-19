@@ -23,6 +23,7 @@ I'm a passionate developer who enjoys building efficient and creative solutions.
 - [Showcase Website](https://vercel.com/amins-projects-ef4df836/showcase-website)
 - [Weather Dashboard](https://vercel.com/amins-projects-ef4df836/weather-dashboard)
 - [Algorithm Lab](https://mohammadaminalbooyeh-algorithm-lab-app-bham3n.streamlit.app)
+- [Smart Library](https://smart-library-ivory.vercel.app)
 
 ### 📌 About Me:
 I’m a passionate developer who loves building useful and creative software. Always learning something new and looking for interesting projects to work on!
