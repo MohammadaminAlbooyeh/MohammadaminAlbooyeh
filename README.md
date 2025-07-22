@@ -1,3 +1,6 @@
+Got it\! Here's your updated profile with **Digital Portfolio** as the new section heading:
+
+```
 ## 👋 Hi there! I'm Amin
 
 A passionate developer dedicated to crafting **efficient and innovative solutions**. I actively explore emerging technologies and consistently refine my expertise.
@@ -12,9 +15,11 @@ A passionate developer dedicated to crafting **efficient and innovative solution
 - Linux system administration
 - Bash scripting for automation
 
-### 📫 Connect:
-- ### [Portfolio](https://vercel.com/amins-projects-ef4df836/showcase-website)
-- 📧 Email: amin.albooyeh@gmail.com
+---
+
+## 🌐 Digital Portfolio
+Check out a broader view of my work and various projects here:
+- [Visit My Showcase](https://vercel.com/amins-projects-ef4df836/showcase-website)
 
 ---
 
@@ -31,3 +36,9 @@ A passionate developer dedicated to crafting **efficient and innovative solution
 
 ### 📌 About Me:
 I thrive on developing **impactful and creative software**. Continuous learning is a core value, and I'm always seeking engaging projects to contribute to.
+
+---
+
+### 📫 Connect:
+- 📧 Email: amin.albooyeh@gmail.com
+  ```
