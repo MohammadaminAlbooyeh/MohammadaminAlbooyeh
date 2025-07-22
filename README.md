@@ -1,6 +1,3 @@
-Got it\! Here's your updated profile with **Digital Portfolio** as the new section heading:
-
-```
 ## 👋 Hi there! I'm Amin
 
 A passionate developer dedicated to crafting **efficient and innovative solutions**. I actively explore emerging technologies and consistently refine my expertise.
@@ -41,4 +38,3 @@ I thrive on developing **impactful and creative software**. Continuous learning 
 
 ### 📫 Connect:
 - 📧 Email: amin.albooyeh@gmail.com
-  ```
