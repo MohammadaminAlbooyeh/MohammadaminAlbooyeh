@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Amin
 
-I'm a passionate developer who enjoys building efficient and creative solutions. Always exploring new technologies and improving my skills!
+A passionate developer dedicated to crafting **efficient and innovative solutions**. I actively explore emerging technologies and consistently refine my expertise.
 
 ### 🔧 Skills:
 
@@ -12,18 +12,22 @@ I'm a passionate developer who enjoys building efficient and creative solutions.
 - Linux system administration
 - Bash scripting for automation
 
-### 📫 Contact:
+### 📫 Connect:
+- ### [Portfolio](https://vercel.com/amins-projects-ef4df836/showcase-website)
 - 📧 Email: amin.albooyeh@gmail.com
 
-### 🚀 Deployed Projects
+---
+
+### 🚀 Projects in Action
 
 - [My Eshop](https://vercel.com/amins-projects-ef4df836/my_eshop)
 - [Income and Expense](https://vercel.com/amins-projects-ef4df836/income-and-expense)
 - [Hotel Booking App](https://vercel.com/amins-projects-ef4df836/hotel-booking-app)
-- [Showcase Website](https://vercel.com/amins-projects-ef4df836/showcase-website)
 - [Weather Dashboard](https://vercel.com/amins-projects-ef4df836/weather-dashboard)
 - [Algorithm Lab](https://mohammadaminalbooyeh-algorithm-lab-app-bham3n.streamlit.app)
 - [Smart Library](https://smart-library-ivory.vercel.app)
 
+---
+
 ### 📌 About Me:
-I’m a passionate developer who loves building useful and creative software. Always learning something new and looking for interesting projects to work on!
+I thrive on developing **impactful and creative software**. Continuous learning is a core value, and I'm always seeking engaging projects to contribute to.
