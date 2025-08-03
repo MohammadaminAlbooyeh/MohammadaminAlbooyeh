@@ -25,8 +25,6 @@ Check out a broader view of my work and various projects here:
 - [My Eshop](https://vercel.com/amins-projects-ef4df836/my_eshop)
 - [Income and Expense](https://vercel.com/amins-projects-ef4df836/income-and-expense)
 - [Hotel Booking App](https://vercel.com/amins-projects-ef4df836/hotel-booking-app)
-- [Weather Dashboard](https://vercel.com/amins-projects-ef4df836/weather-dashboard)
-- [Algorithm Lab](https://mohammadaminalbooyeh-algorithm-lab-app-bham3n.streamlit.app)
 - [Smart Library](https://smart-library-ivory.vercel.app)
 
 ---
