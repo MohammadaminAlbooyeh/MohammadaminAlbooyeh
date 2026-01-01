@@ -1,16 +1,48 @@
 ## 👋 Hi there! I'm Amin
 
-A passionate developer dedicated to crafting **efficient and innovative solutions**. I actively explore emerging technologies and consistently refine my expertise.
+**Backend Software Engineer** specializing in Python development, cloud infrastructure, and DevOps. I build **scalable, production-ready systems** and leverage modern technologies to solve complex challenges. Passionate about continuous learning, I'm always exploring innovative approaches to create impactful software solutions.
 
 ### 🔧 Skills:
 
 #### 💻 Programming Languages
-- Python 🐍
-- Java ☕
+- Python 🐍 (Strong proficiency in backend software design)
 
-#### 🐧 Linux & Bash
-- Linux system administration
-- Bash scripting for automation
+#### 🌐 Web Development & Frameworks
+- Django Web Development (Hands-on experience)
+- Flask
+- FastAPI
+- HTML / CSS (Solid knowledge)
+- RESTful API development
+
+#### 🗄️ Databases & Data Modeling
+- SQL databases (postgreSQL & MySQL)
+- NoSQL databases (MangoDB)
+- Strong understanding of data modeling
+
+#### ☁️ Cloud Platforms
+- AWS
+
+#### 🐳 DevOps & Containerization
+- Docker (Experience with containerization)
+- Kubernetes (Container orchestration)
+- CI/CD tools (Jenkins, GitLab CI, GitHub Actions)
+- Automated testing
+- Modern development workflows
+
+#### 🤖 AI & Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+
+#### 🏗️ Architecture & Best Practices
+- Microservices architecture principles
+- Backend software design
+- High-quality technical and design documentation
+
+#### 🐧 Linux & System Administration
+- Linux server administration and configuration management
+- Shell scripting (Bash) for task automation and workflow optimization
+- System monitoring, performance tuning, and troubleshooting
+- Process management and systemd service configuration
 
 ---
 
@@ -22,15 +54,15 @@ Check out a broader view of my work and various projects here:
 
 ### 🚀 Projects in Action
 
-- [My Eshop](https://vercel.com/amins-projects-ef4df836/my_eshop)
-- [Income and Expense](https://vercel.com/amins-projects-ef4df836/income-and-expense)
-- [Hotel Booking App](https://vercel.com/amins-projects-ef4df836/hotel-booking-app)
-- [Smart Library](https://smart-library-ivory.vercel.app)
 
 ---
 
 ### 📌 About Me:
-I thrive on developing **impactful and creative software**. Continuous learning is a core value, and I'm always seeking engaging projects to contribute to.
+I'm a **backend-focused software engineer** passionate about building **scalable, efficient, and innovative solutions**. With expertise spanning from Python development to cloud infrastructure and DevOps practices, I specialize in turning complex challenges into elegant, production-ready systems.
+
+I believe in the power of **continuous learning** and staying current with emerging technologies. Whether it's architecting microservices, optimizing system performance, or exploring cutting-edge AI applications, I'm driven by the opportunity to create software that makes a real impact.
+
+I'm always open to **collaborative opportunities** and challenging projects that push the boundaries of what's possible. Let's build something amazing together!
 
 ---
 
