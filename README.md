@@ -48,7 +48,7 @@
 
 ## 🌐 Digital Portfolio
 Check out a broader view of my work and various projects here:
-- [Visit My Showcase](https://vercel.com/amins-projects-ef4df836/showcase-website)
+- [Visit My Showcase](https://showcase-website-cql3.vercel.app)
 
 ---
 
