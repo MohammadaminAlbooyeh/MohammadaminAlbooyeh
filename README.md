@@ -46,9 +46,9 @@
 
 ---
 
-## 🌐 Digital Portfolio
-Check out a broader view of my work and various projects here:
-- [Visit My Showcase](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com)
+## 🌐 ortfolio Website
+Discover my projects, skills, and professional journey:
+- [Visit My Portfolio](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com)
 
 ---
 
