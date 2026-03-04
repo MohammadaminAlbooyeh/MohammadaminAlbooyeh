@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Amin
 
-**Backend Software Engineer** specializing in Python development, cloud infrastructure, and DevOps. I build **scalable, production-ready systems** and leverage modern technologies to solve complex challenges. Passionate about continuous learning, I'm always exploring innovative approaches to create impactful software solutions.
+**👨‍💻 Software Engineer** specializing in Python development, cloud infrastructure, and DevOps. I build **scalable, production-ready systems** and leverage modern technologies to solve complex challenges. Passionate about continuous learning, I'm always exploring innovative approaches to create impactful software solutions.
 
 ### 🔧 Skills:
 
@@ -11,7 +11,11 @@
 - Django Web Development (Hands-on experience)
 - Flask
 - FastAPI
+- API design and development
 - HTML / CSS (Solid knowledge)
+- JavaScript (Familiarity)
+- React (Familiarity)
+- Node.js (Familiarity)
 - RESTful API development
 
 #### 🗄️ Databases & Data Modeling
@@ -53,7 +57,6 @@ Discover my projects, skills, and professional journey:
 ---
 
 ### 🚀 Projects in Action
-
 
 ---
 
