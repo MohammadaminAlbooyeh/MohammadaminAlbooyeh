@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Amin
 
-**👨‍💻 Software Engineer** specializing in Python development, cloud infrastructure, and DevOps. I build **scalable, production-ready systems** and leverage modern technologies to solve complex challenges. Passionate about continuous learning, I'm always exploring innovative approaches to create impactful software solutions.
+**👨‍💻 Software Engineer** with expertise in Python programming, data engineering, cloud infrastructure, and DevOps. I specialize in building **scalable, production-ready systems** and leveraging modern technologies to solve complex challenges. Passionate about continuous learning, I explore innovative approaches to create impactful software solutions.
 
 ### 🔧 Skills:
 
@@ -18,9 +18,11 @@
 - Node.js (Familiarity)
 - RESTful API development
 
-#### 🗄️ Databases & Data Modeling
+#### 🗄️ Databases & Data Engineering
 - SQL databases (postgreSQL & MySQL)
 - NoSQL databases (MangoDB)
+- Data pipeline development and optimization
+- ETL processes and data integration
 - Strong understanding of data modeling
 
 #### ☁️ Cloud Platforms
@@ -50,9 +52,15 @@
 
 ---
 
-## 🌐 ortfolio Website
+## 🌐 Portfolio Website
 Discover my projects, skills, and professional journey:
 - [Visit My Portfolio](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com)
+
+---
+
+## 🌐 Deployed Projects
+Explore my deployed projects:
+- [Air Quality Index & Weather Live](https://air-quality-index-weather-live.vercel.app/)
 
 ---
 
@@ -61,7 +69,7 @@ Discover my projects, skills, and professional journey:
 ---
 
 ### 📌 About Me:
-I'm a **backend-focused software engineer** passionate about building **scalable, efficient, and innovative solutions**. With expertise spanning from Python development to cloud infrastructure and DevOps practices, I specialize in turning complex challenges into elegant, production-ready systems.
+I'm a **backend-focused software engineer** passionate about building **scalable, efficient, and innovative solutions**. With expertise spanning from Python development to data engineering, cloud infrastructure, and DevOps practices, I specialize in turning complex challenges into elegant, production-ready systems.
 
 I believe in the power of **continuous learning** and staying current with emerging technologies. Whether it's architecting microservices, optimizing system performance, or exploring cutting-edge AI applications, I'm driven by the opportunity to create software that makes a real impact.
 
