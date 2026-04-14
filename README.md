@@ -58,8 +58,10 @@ Discover my projects, skills, and professional journey:
 
 ---
 
+
 ## 🌐 Deployed Projects
 Explore my deployed projects:
+- [Salary Calculator](https://salary-calculator-five-ecru.vercel.app/)
 - [Job Finder Bot](https://job-finder-bot-tau.vercel.app/)
 - [Air Quality Index & Weather Live](https://air-quality-index-weather-live.vercel.app/)
 
