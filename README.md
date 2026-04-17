@@ -1,84 +1,69 @@
 ## 👋 Hi there! I'm Amin
 
-**👨‍💻 Software Engineer** with expertise in Python programming, data engineering, cloud infrastructure, and DevOps. I specialize in building **scalable, production-ready systems** and leveraging modern technologies to solve complex challenges. Passionate about continuous learning, I explore innovative approaches to create impactful software solutions.
-
-### 🔧 Skills:
-
-#### 💻 Programming Languages
-- Python 🐍 (Strong proficiency in backend software design)
-
-#### 🌐 Web Development & Frameworks
-- Django Web Development (Hands-on experience)
-- Flask
-- FastAPI
-- API design and development
-- HTML / CSS (Solid knowledge)
-- JavaScript (Familiarity)
-- React (Familiarity)
-- Node.js (Familiarity)
-- RESTful API development
-
-#### 🗄️ Databases & Data Engineering
-- SQL databases (postgreSQL & MySQL)
-- NoSQL databases (MangoDB)
-- Data pipeline development and optimization
-- ETL processes and data integration
-- Strong understanding of data modeling
-
-#### ☁️ Cloud Platforms
-- AWS
-
-#### 🐳 DevOps & Containerization
-- Docker (Experience with containerization)
-- Kubernetes (Container orchestration)
-- CI/CD tools (Jenkins, GitLab CI, GitHub Actions)
-- Automated testing
-- Modern development workflows
-
-#### 🤖 AI & Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-
-#### 🏗️ Architecture & Best Practices
-- Microservices architecture principles
-- Backend software design
-- High-quality technical and design documentation
-
-#### 🐧 Linux & System Administration
-- Linux server administration and configuration management
-- Shell scripting (Bash) for task automation and workflow optimization
-- System monitoring, performance tuning, and troubleshooting
-- Process management and systemd service configuration
+**Senior Software Engineer** with **8+ years** building scalable backend systems, microservices, and data pipelines in high-load production environments. I specialize in designing architecture, leading teams, and shipping production-grade systems at scale.
 
 ---
 
-## 🌐 Portfolio Website
-Discover my projects, skills, and professional journey:
+## 🔧 Technical Skills
+
+### 💻 Core Languages & Frameworks
+- **Python** (Advanced) — FastAPI, Django, Flask
+- **SQL** — Query optimization and performance tuning
+- **Bash** — Shell scripting and automation
+- **React** — Frontend fundamentals (JS/HTML/CSS)
+
+### 🗄️ Databases & Caching
+- **SQL:** PostgreSQL, MySQL (advanced query optimization)
+- **NoSQL:** MongoDB
+- **Caching & Search:** Redis, Elasticsearch (full-text search, analytics dashboards)
+
+### ☁️ Cloud & DevOps
+- **Cloud Platforms:** AWS, Azure, DigitalOcean
+- **Containerization:** Docker, Kubernetes (container orchestration)
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+- **Linux:** Server administration, performance tuning, system monitoring
+
+### 🔄 Async & Distributed Systems
+- **Message Queues:** Celery, RabbitMQ, Amazon SQS
+- **Architecture:** Microservices, Clean Architecture, System Design
+- **Data Pipelines:** ETL workflows, data integration, optimization
+- **Testing:** Pytest, automated testing
+
+---
+
+## 🌐 Portfolio & Projects
+
+**Portfolio Website:**
 - [Visit My Portfolio](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com)
 
----
-
-
-## 🌐 Deployed Projects
-Explore my deployed projects:
-- [Salary Calculator](https://salary-calculator-five-ecru.vercel.app/)
-- [Job Finder Bot](https://job-finder-bot-tau.vercel.app/)
-- [Air Quality Index & Weather Live](https://air-quality-index-weather-live.vercel.app/)
+**Deployed Projects:**
+- [Salary Calculator](https://salary-calculator-five-ecru.vercel.app/) — React-based calculation tool
+- [Job Finder Bot](https://job-finder-bot-tau.vercel.app/) — Job search automation
+- [Air Quality Index & Weather Live](https://air-quality-index-weather-live.vercel.app/) — Real-time environmental data dashboard
 
 ---
 
-### 🚀 Projects in Action
+## 📌 About Me
+
+I'm a **Software Engineer** passionate about designing and building **scalable, production-grade systems** that serve millions of users. With 8+ years of hands-on experience across startups and growing teams, I excel at:
+
+- **System Architecture** — Designing microservices, async task pipelines, and distributed systems
+- **Leadership & Mentorship** — Conducting code reviews, leading architecture sessions, and mentoring engineers
+- **Performance Optimization** — Tuning databases, optimizing queries, and improving system throughput under load
+- **DevOps & Cloud Infrastructure** — Managing Kubernetes clusters, CI/CD pipelines, and cloud deployments at scale
+
+I'm driven by the challenge of solving complex technical problems and the satisfaction of shipping systems that perform reliably in production. I believe in **clean code, thoughtful architecture, and continuous learning**.
+
+Whether it's architecting a new microservice, optimizing a bottlenecked data pipeline, or mentoring the next generation of engineers, I'm excited about opportunities to make a meaningful impact.
 
 ---
 
-### 📌 About Me:
-I'm a **backend-focused software engineer** passionate about building **scalable, efficient, and innovative solutions**. With expertise spanning from Python development to data engineering, cloud infrastructure, and DevOps practices, I specialize in turning complex challenges into elegant, production-ready systems.
+## 📫 Let's Connect
 
-I believe in the power of **continuous learning** and staying current with emerging technologies. Whether it's architecting microservices, optimizing system performance, or exploring cutting-edge AI applications, I'm driven by the opportunity to create software that makes a real impact.
-
-I'm always open to **collaborative opportunities** and challenging projects that push the boundaries of what's possible. Let's build something amazing together!
+- 📧 **Email:** amin.albooyeh@gmail.com
+- 💼 **LinkedIn:** [Profile](https://linkedin.com/in/your-profile)
+- 🐙 **GitHub:** [@your-username](https://github.com/your-username)
 
 ---
 
-### 📫 Connect:
-- 📧 Email: amin.albooyeh@gmail.com
+*Always open to collaborative opportunities and challenging projects. Let's build something amazing together!*
