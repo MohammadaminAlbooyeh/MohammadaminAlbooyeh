@@ -18,7 +18,7 @@
 - **Caching & Search:** Redis, Elasticsearch (full-text search, analytics dashboards)
 
 ### ☁️ Cloud & DevOps
-- **Cloud Platforms:** AWS, Azure, DigitalOcean
+- **Cloud Platforms:** AWS, Azure, Oracle Cloud
 - **Containerization:** Docker, Kubernetes (container orchestration)
 - **CI/CD:** GitHub Actions, GitLab CI, Jenkins
 - **Linux:** Server administration, performance tuning, system monitoring
@@ -34,12 +34,13 @@
 ## 🌐 Portfolio & Projects
 
 **Portfolio Website:**
-- [Visit My Portfolio](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com)
+- [Amin Albooyeh](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com)
 
 **Deployed Projects:**
 - [Salary Calculator](https://salary-calculator-five-ecru.vercel.app/) — React-based calculation tool
 - [Job Finder Bot](https://job-finder-bot-tau.vercel.app/) — Job search automation
 - [Air Quality Index & Weather Live](https://air-quality-index-weather-live.vercel.app/) — Real-time environmental data dashboard
+- [user_authentication_API](https://user-authentication-api-ashen.vercel.app/) — Vercel deployment
 
 ---
 
