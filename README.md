@@ -1,70 +1,66 @@
-## 👋 Hi there! I'm Amin
+# 👋 Hi there! I'm Amin
 
-**Senior Software Engineer** with **8+ years** building scalable backend systems, microservices, and data pipelines in high-load production environments. I specialize in designing architecture, leading teams, and shipping production-grade systems at scale.
+**Senior Software Engineer** with 8+ years designing scalable backend systems, microservices architectures, and high-performance data pipelines in production environments.
+
+I specialize in **system architecture**, **async/distributed systems**, **technical leadership**, and shipping production-grade systems that scale.
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
-### 💻 Core Languages & Frameworks
+### 💻 Languages & Frameworks
 - **Python** (Advanced) — FastAPI, Django, Flask
-- **SQL** — Query optimization and performance tuning
-- **Bash** — Shell scripting and automation
-- **React** — Frontend fundamentals (JS/HTML/CSS)
+- **SQL** — Query optimization, performance tuning, complex joins
+- **Bash** — Shell scripting, automation, system administration
+- **React** — Frontend fundamentals (JavaScript, HTML, CSS)
 
-### 🗄️ Databases & Caching
-- **SQL:** PostgreSQL, MySQL (advanced query optimization)
+### 🗄️ Databases & Search
+- **SQL:** PostgreSQL (advanced), MySQL
 - **NoSQL:** MongoDB
-- **Caching & Search:** Redis, Elasticsearch (full-text search, analytics dashboards)
+- **Caching & Search:** Redis, Elasticsearch
 
 ### ☁️ Cloud & DevOps
-- **Cloud Platforms:** AWS, Azure, Oracle Cloud
-- **Containerization:** Docker, Kubernetes (container orchestration)
+- **Cloud Platforms:** AWS, Azure, Oracle Cloud, DigitalOcean
+- **Containerization:** Docker, Kubernetes
 - **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-- **Linux:** Server administration, performance tuning, system monitoring
+- **Linux:** Server administration, performance tuning, monitoring
 
 ### 🔄 Async & Distributed Systems
 - **Message Queues:** Celery, RabbitMQ, Amazon SQS
-- **Architecture:** Microservices, Clean Architecture, System Design
-- **Data Pipelines:** ETL workflows, data integration, optimization
-- **Testing:** Pytest, automated testing
+- **Architecture:** Microservices, Clean Architecture, ETL pipelines
+- **Performance:** Database tuning, query optimization, system scaling
+- **Testing:** Pytest, integration testing, performance profiling
 
 ---
 
 ## 🌐 Portfolio & Projects
 
-**Portfolio Website:**
-- [Amin Albooyeh](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com)
-
-**Deployed Projects:**
-- [Salary Calculator](https://salary-calculator-five-ecru.vercel.app/) — React-based calculation tool
-- [Job Finder Bot](https://job-finder-bot-tau.vercel.app/) — Job search automation
-- [Air Quality Index & Weather Live](https://air-quality-index-weather-live.vercel.app/) — Real-time environmental data dashboard
-- [user_authentication_API](https://user-authentication-api-ashen.vercel.app/) — Vercel deployment
+**[Portfolio Website](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com/)** — Personal showcase  
+**[Salary Calculator](https://salary-calculator-five-ecru.vercel.app/)** — React-based calculation tool  
+**[Job Finder Bot](https://job-finder-bot-tau.vercel.app/)** — Job search automation  
+**[Air Quality & Weather Dashboard](https://air-quality-index-weather-live.vercel.app/)** — Real-time environmental data  
+**[User Authentication API](https://user-authentication-api-ashen.vercel.app/)** — Secure authentication system
 
 ---
 
-## 📌 About Me
+## 💡 What I Do
 
-I'm a **Software Engineer** passionate about designing and building **scalable, production-grade systems** that serve millions of users. With 8+ years of hands-on experience across startups and growing teams, I excel at:
+- **System Architecture** — Design microservices, async pipelines, and distributed systems that scale
+- **Technical Leadership** — Code reviews, architecture reviews, mentoring junior engineers
+- **Performance Optimization** — Tune databases, optimize queries, improve throughput under load
+- **DevOps & Infrastructure** — Docker, Kubernetes, CI/CD automation, cloud deployments at scale
+- **Production Excellence** — Build reliable systems with clean code, thoughtful design, and continuous learning
 
-- **System Architecture** — Designing microservices, async task pipelines, and distributed systems
-- **Leadership & Mentorship** — Conducting code reviews, leading architecture sessions, and mentoring engineers
-- **Performance Optimization** — Tuning databases, optimizing queries, and improving system throughput under load
-- **DevOps & Cloud Infrastructure** — Managing Kubernetes clusters, CI/CD pipelines, and cloud deployments at scale
-
-I'm driven by the challenge of solving complex technical problems and the satisfaction of shipping systems that perform reliably in production. I believe in **clean code, thoughtful architecture, and continuous learning**.
-
-Whether it's architecting a new microservice, optimizing a bottlenecked data pipeline, or mentoring the next generation of engineers, I'm excited about opportunities to make a meaningful impact.
+I'm passionate about solving complex technical problems and shipping systems that perform reliably in production.
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** amin.albooyeh@gmail.com
-- 💼 **LinkedIn:** [Profile](https://linkedin.com/in/your-profile)
-- 🐙 **GitHub:** [@your-username](https://github.com/your-username)
+- **Email:** [amin.albooyeh@gmail.com](mailto:amin.albooyeh@gmail.com)
+- **LinkedIn:** [linkedin.com/in/amin-albooyeh](https://linkedin.com/in/amin-albooyeh)
+- **Location:** Turin, Italy 🇮🇹
 
 ---
 
-*Always open to collaborative opportunities and challenging projects. Let's build something amazing together!*
+**Always open to discussing system design, architecture, and challenging problems. Let's build something great together!** 🚀
