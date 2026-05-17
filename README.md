@@ -35,7 +35,7 @@ I specialize in **system architecture**, **async/distributed systems**, **techni
 
 ## 🌐 Portfolio & Projects
 
-**[Portfolio Website](http://showcase-website-amin.s3-website.eu-north-1.amazonaws.com/)** — Personal showcase  
+**[Portfolio Website](https://showcase-website-cql3.vercel.app/)** — Personal showcase  
 **[Salary Calculator](https://salary-calculator-five-ecru.vercel.app/)** — React-based calculation tool  
 **[Job Finder Bot](https://job-finder-bot-tau.vercel.app/)** — Job search automation  
 **[Air Quality & Weather Dashboard](https://air-quality-index-weather-live.vercel.app/)** — Real-time environmental data  
