@@ -1,65 +1,57 @@
-# 👋 Hi there! I'm Amin
+# 👋 Hi, I'm Amin
 
-**Senior Software Engineer** with 8+ years designing scalable backend systems, microservices architectures, and high-performance data pipelines in production environments.
+Software Engineer with 8+ years building production Python systems —
+backend APIs, distributed task pipelines, and cloud infrastructure.
 
-I specialize in **system architecture**, **async/distributed systems**, **technical leadership**, and shipping production-grade systems that scale.
+I specialize in async/distributed systems, database optimization,
+and cloud infrastructure — shipping systems that hold up under load.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Frameworks
-- **Python** (Advanced) — FastAPI, Django, Flask
-- **SQL** — Query optimization, performance tuning, complex joins
-- **Bash** — Shell scripting, automation, system administration
-- **React** — Frontend fundamentals (JavaScript, HTML, CSS)
+### Languages & Frameworks
+- Python (Advanced) — FastAPI, Django, Flask
+- SQL — Query optimization, performance tuning
+- Bash — Shell scripting, automation
 
-### 🗄️ Databases & Search
-- **SQL:** PostgreSQL (advanced), MySQL
-- **NoSQL:** MongoDB
-- **Caching & Search:** Redis, Elasticsearch
+### Databases & Search
+- PostgreSQL (advanced), MySQL
+- MongoDB, Redis, Elasticsearch
 
-### ☁️ Cloud & DevOps
-- **Cloud Platforms:** AWS, Azure, Oracle Cloud, DigitalOcean
-- **Containerization:** Docker, Kubernetes
-- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-- **Linux:** Server administration, performance tuning, monitoring
+### Cloud & DevOps
+- AWS, Azure, DigitalOcean
+- Docker, Kubernetes
+- GitHub Actions, GitLab CI
+- Linux server administration
 
-### 🔄 Async & Distributed Systems
-- **Message Queues:** Celery, RabbitMQ, Amazon SQS
-- **Architecture:** Microservices, Clean Architecture, ETL pipelines
-- **Performance:** Database tuning, query optimization, system scaling
-- **Testing:** Pytest, integration testing, performance profiling
+### Async & Distributed Systems
+- Celery, RabbitMQ, Amazon SQS
+- Microservices, Clean Architecture, ETL pipelines
+- Pytest, integration testing, performance profiling
 
 ---
 
-## 🌐 Portfolio & Projects
+## 🌐 Projects
 
 **[Portfolio Website](https://showcase-website-cql3.vercel.app/)** — Personal showcase  
-**[Salary Calculator](https://salary-calculator-five-ecru.vercel.app/)** — React-based calculation tool  
-**[Job Finder Bot](https://job-finder-bot-tau.vercel.app/)** — Job search automation  
-**[Air Quality & Weather Dashboard](https://air-quality-index-weather-live.vercel.app/)** — Real-time environmental data  
-**[User Authentication API](https://user-authentication-api-ashen.vercel.app/)** — Secure authentication system
-
----
-
-## 💡 What I Do
-
-- **System Architecture** — Design microservices, async pipelines, and distributed systems that scale
-- **Technical Leadership** — Code reviews, architecture reviews, mentoring junior engineers
-- **Performance Optimization** — Tune databases, optimize queries, improve throughput under load
-- **DevOps & Infrastructure** — Docker, Kubernetes, CI/CD automation, cloud deployments at scale
-- **Production Excellence** — Build reliable systems with clean code, thoughtful design, and continuous learning
-
-I'm passionate about solving complex technical problems and shipping systems that perform reliably in production.
+**[Salary Calculator](https://salary-calculator-five-ecru.vercel.app/)** — Salary computation tool  
+**[order_processing_system](https://github.com/MohammadaminAlbooyeh/order_processing_system)** — Distributed order pipeline with async processing  
+**[chatbot_with_RAG](https://github.com/MohammadaminAlbooyeh/chatbot_with_RAG)** — RAG-powered chatbot with LLM embeddings and semantic search  
+**[real_time_chat_app](https://github.com/MohammadaminAlbooyeh/real_time_chat_app)** — WebSocket chat with multi-room support  
+**[Data-Warehouse-for-E-Commerce](https://github.com/MohammadaminAlbooyeh/Data-Warehouse-for-E-Commerce)** — End-to-end data warehouse and ETL pipeline  
+**[user_authentication_API](https://github.com/MohammadaminAlbooyeh/user_authentication_api)** — Secure auth system with token management  
 
 ---
 
 ## 📫 Let's Connect
 
 - **Email:** [amin.albooyeh@gmail.com](mailto:amin.albooyeh@gmail.com)
-- **LinkedIn:** [linkedin.com/in/amin-albooyeh](https://linkedin.com/in/amin-albooyeh)
+- **LinkedIn:** [linkedin.com/in/amin-a-95a541176](https://www.linkedin.com/in/amin-a-95a541176/)
 - **Location:** Turin, Italy 🇮🇹
+
+Open to backend engineering roles and contracts in distributed systems
+and Python infrastructure.
 
 ---
 
