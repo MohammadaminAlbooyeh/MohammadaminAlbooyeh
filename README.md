@@ -44,14 +44,6 @@ and cloud infrastructure — shipping systems that hold up under load.
 
 ---
 
-## 📊 GitHub Stats
-
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 **Email:** [amin.albooyeh@gmail.com](mailto:amin.albooyeh@gmail.com)
