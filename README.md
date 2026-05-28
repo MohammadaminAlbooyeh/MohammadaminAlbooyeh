@@ -62,6 +62,11 @@ shipping AI features that hold up in production, not just demos.
 🔐 **[user_authentication_API](https://github.com/MohammadaminAlbooyeh/user_authentication_api)** — Secure auth system with token management  
 📡 **[uptime_monitor](https://github.com/MohammadaminAlbooyeh/uptime_monitor)** — Production uptime monitoring system  
 
+### 🌐 Web Apps
+🎨 **[Showcase Website](https://showcase-website-cql3.vercel.app/)** — Portfolio website showcasing projects and work  
+💰 **[Salary Calculator](https://salary-calculator-five-ecru.vercel.app/)** — Interactive web app for salary calculations  
+🔍 **[Job Finder Bot](https://job-finder-bot-tau.vercel.app/)** — AI-powered job search assistant  
+
 ---
 
 ## 📫 Let's Connect
