@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amin
 
-Software Engineer with 8+ years building production Python systems —
+Software Engineer with 10+ years building production Python systems —
 backend APIs, distributed task pipelines, and cloud infrastructure.
 
 Currently focused on backend engineering and distributed systems —
