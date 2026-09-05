@@ -12,6 +12,7 @@ shipping services that hold up under real production load, not just demos.
 
 ### 💻 Languages & Frameworks
 - Python (Advanced) — FastAPI, Django, Flask
+- Java — Spring Boot, Junit, Spring Data
 - SQL — Query optimization, performance tuning
 - Bash — Shell scripting, automation
 
