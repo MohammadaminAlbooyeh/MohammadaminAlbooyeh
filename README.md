@@ -12,7 +12,7 @@ infrastructure that runs them — the unglamorous engineering that keeps platfor
 millions of users online.
 
 [![Email](https://img.shields.io/badge/Email-amin.albooyeh%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:amin.albooyeh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amin%20Albooyeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-a-95a541176/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amin%20Albooyeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-albooyeh-95a541176/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=flat-square&logo=vercel&logoColor=white)](https://showcase-website-cql3.vercel.app/)
 
 <br>
@@ -145,7 +145,7 @@ Open to backend roles — remote or based in Italy — where reliability, scale,
 architecture actually matter.
 
 [![Email](https://img.shields.io/badge/Email_Me-amin.albooyeh%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amin.albooyeh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-a-95a541176/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-albooyeh-95a541176/)
 [![Portfolio](https://img.shields.io/badge/View-Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://showcase-website-cql3.vercel.app/)
 
 </div>
