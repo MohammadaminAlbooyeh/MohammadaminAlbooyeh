@@ -2,12 +2,14 @@
 
 # Amin Albooyeh
 
-### Senior Backend Engineer — Python & Java, Distributed Systems, 10+ Years
+### Senior Backend Engineer — Python & Java · Distributed Systems · 10+ Years
 
 Turin, Italy · Open to backend roles (remote or Italy-based)
 
-I design backend systems that hold up under real production load — event-driven microservices,
-async task pipelines, high-throughput APIs, and the cloud infrastructure that runs them.
+**I build backend systems that don't fall over in production.**
+Event-driven microservices, async task pipelines, high-throughput APIs, and the cloud
+infrastructure that runs them — the unglamorous engineering that keeps platforms with
+millions of users online.
 
 [![Email](https://img.shields.io/badge/Email-amin.albooyeh%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:amin.albooyeh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amin%20Albooyeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-a-95a541176/)
@@ -29,6 +31,18 @@ async task pipelines, high-throughput APIs, and the cloud infrastructure that ru
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
+
+---
+
+## Why This Profile
+
+| | |
+|---|---|
+| 🧭 **Led, not just coded** | Tech lead for a 5-engineer team shipping to 2M+ users — owned architecture decisions, code review standards, and release quality end to end. |
+| ⚙️ **Built for scale** | Designed async pipelines moving 500k+ jobs/day and streaming systems processing 50k+ events/min — not toy demos, production systems under real load. |
+| 🏗️ **Full-stack of infrastructure** | Comfortable from query plans and cache tuning up through Kubernetes, Terraform, and CI/CD — ships features *and* owns what they run on. |
+| 🔁 **Two language ecosystems** | Deep in Python (FastAPI, Django, Celery) and equally fluent in Java (Spring Boot 3, Spring Data JPA, Kafka sagas) — not a one-stack specialist. |
+| 📐 **Patterns that matter in production** | Saga orchestration, transactional outbox, idempotent consumers, dead-letter queues — the details that separate "it works in dev" from "it survives Black Friday." |
 
 ---
 
@@ -112,8 +126,13 @@ async task pipelines, high-throughput APIs, and the cloud infrastructure that ru
 
 <div align="center">
 
-Open to conversations about system design, event-driven architecture, or a backend role where reliability actually matters.
+### Let's build something that stays up.
 
-[**Email**](mailto:amin.albooyeh@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/amin-a-95a541176/) · [**Portfolio**](https://showcase-website-cql3.vercel.app/)
+Open to backend roles — remote or based in Italy — where reliability, scale, and clean
+architecture actually matter.
+
+[![Email](https://img.shields.io/badge/Email_Me-amin.albooyeh%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amin.albooyeh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-a-95a541176/)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://showcase-website-cql3.vercel.app/)
 
 </div>
