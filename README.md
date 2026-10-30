@@ -36,13 +36,15 @@ millions of users online.
 
 ## Why This Profile
 
-| | |
-|---|---|
-| 🧭 **Led, not just coded** | Tech lead for a 5-engineer team shipping to 2M+ users — owned architecture decisions, code review standards, and release quality end to end. |
-| ⚙️ **Built for scale** | Designed async pipelines moving 500k+ jobs/day and streaming systems processing 50k+ events/min — not toy demos, production systems under real load. |
-| 🏗️ **Full-stack of infrastructure** | Comfortable from query plans and cache tuning up through Kubernetes, Terraform, and CI/CD — ships features *and* owns what they run on. |
-| 🔁 **Two language ecosystems** | Deep in Python (FastAPI, Django, Celery) and equally fluent in Java (Spring Boot 3, Spring Data JPA, Kafka sagas) — not a one-stack specialist. |
-| 📐 **Patterns that matter in production** | Saga orchestration, transactional outbox, idempotent consumers, dead-letter queues — the details that separate "it works in dev" from "it survives Black Friday." |
+🧭 **Led, not just coded** — Tech lead for a 5-engineer team shipping to 2M+ users, owning architecture decisions, code review standards, and release quality end to end.
+
+⚙️ **Built for scale** — Designed async pipelines moving 500k+ jobs/day and streaming systems processing 50k+ events/min. Production systems under real load, not toy demos.
+
+🏗️ **Full-stack of infrastructure** — Comfortable from query plans and cache tuning up through Kubernetes, Terraform, and CI/CD. Ships features *and* owns what they run on.
+
+🔁 **Two language ecosystems** — Deep in Python (FastAPI, Django, Celery) and equally fluent in Java (Spring Boot 3, Spring Data JPA, Kafka sagas). Not a one-stack specialist.
+
+📐 **Patterns that matter in production** — Saga orchestration, transactional outbox, idempotent consumers, dead-letter queues. The details that separate "it works in dev" from "it survives Black Friday."
 
 ---
 
