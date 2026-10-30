@@ -19,6 +19,7 @@ millions of users online.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -100,6 +101,16 @@ millions of users online.
 - [Salary Calculator](https://salary-calculator-five-ecru.vercel.app/) — Interactive salary calculator
 
 </details>
+
+---
+
+## Mobile
+
+Beyond backend systems, I also ship consumer-facing Android apps in Kotlin — currently in
+Google Play's review/deployment pipeline:
+
+- 📱 **NettoFacile** — Net salary calculator app (Kotlin) *(pending Google Play release)*
+- 📱 **BuildCalc** — Construction/building cost calculator app (Kotlin) *(pending Google Play release)*
 
 ---
 
