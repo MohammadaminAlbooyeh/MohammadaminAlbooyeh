@@ -23,6 +23,7 @@ millions of users online.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,18 +46,21 @@ millions of users online.
 
 🔁 **Two language ecosystems** — Deep in Python (FastAPI, Django, Celery) and equally fluent in Java (Spring Boot 3, Spring Data JPA, Kafka sagas). Not a one-stack specialist.
 
+🤖 **Now building with AI agents** — Production agent services on FastAPI + LangGraph + MCP, with human-in-the-loop approval and multi-agent orchestration.
+
 📐 **Patterns that matter in production** — Saga orchestration, transactional outbox, idempotent consumers, dead-letter queues. The details that separate "it works in dev" from "it survives Black Friday."
 
 ---
 
 ## Highlights
 
+- **Freelance Senior Software Engineer (Jan 2026–Present)** — Self-employed, remote, backend architecture / API design / system integration for clients (NDA), alongside the self-directed open-source systems below.
 - **Tech lead of a 5-engineer team** at Quera (largest EdTech platform in Iran, 2M+ users) — ran architecture reviews, owned code review, and introduced PR conventions that meaningfully cut post-merge regressions.
 - **Architected an async task pipeline** (FastAPI + Celery + RabbitMQ) processing 500k+ background jobs/day, decoupling ingestion from execution across distributed workers.
 - **Reduced p95 read latency under peak traffic** by tuning PostgreSQL query plans, Redis caching, and platform-wide Elasticsearch search.
 - **Owned cloud infrastructure** on AWS and DigitalOcean — containerized every service, orchestrated with Kubernetes, and automated releases via GitHub Actions and GitLab CI, bringing manual release steps to zero.
 - **Rebuilt a monolith into independently deployable REST services**, raising deploy frequency from monthly to weekly.
-- **Java backend experience** — Spring Boot and Spring Data JPA in production, plus current Java 17 / Spring Boot 3 work with Kafka sagas and the transactional outbox pattern.
+- **Java backend experience** — Spring Boot and Spring Data JPA in production, plus current Java 17/21 / Spring Boot 3 work with Kafka sagas and the transactional outbox pattern.
 
 ---
 
@@ -65,26 +69,32 @@ millions of users online.
 | Project | What it does | Stack |
 |---|---|---|
 | **[scalable-ecommerce-platform](https://github.com/MohammadaminAlbooyeh/scalable-ecommerce-platform)** | E-commerce backend of 14 microservices with Kong gateway, Kafka event flows, and Kubernetes + Terraform deployment | Python/FastAPI, Java/Spring Boot, Kafka, Kong, Kubernetes, Terraform |
+| **[fastapi_mcp_agent_service](https://github.com/MohammadaminAlbooyeh/fastapi_mcp_agent_service)** | Production AI agent service on the Model Context Protocol: DB/file/API tools, human-in-the-loop approval, SSRF-protected tool calls | Python, FastAPI, LangGraph, MCP |
+| **[microservices_orchestrator](https://github.com/MohammadaminAlbooyeh/microservices_orchestrator)** | Lightweight orchestration platform for deploying and scaling services across a cluster — rolling / blue-green / canary deploys, etcd service discovery | Python, FastAPI, React, etcd |
 | **[order-service](https://github.com/MohammadaminAlbooyeh/order-service)** | Order lifecycle microservice: Kafka saga orchestration with compensation, transactional outbox, idempotent consumers, dead-letter topics | Java 17, Spring Boot 3, Kafka, PostgreSQL |
 | **[rate-limiter-service](https://github.com/MohammadaminAlbooyeh/rate-limiter-service)** | Multi-tenant rate limiting with 5 algorithms (Token Bucket, Sliding Window, Leaky Bucket…) on Redis + atomic Lua scripts; sustains 10k+ req/s in load tests | Python, FastAPI, Redis, Lua |
 | **[streaming-data-processor](https://github.com/MohammadaminAlbooyeh/streaming-data-processor)** | Kafka event streaming pipeline: parallel consumer groups for enrichment, windowed aggregation, fraud detection at 50k+ events/min, WebSocket dashboard | Python, Kafka, WebSocket |
+| **[real_time_analytics_dashboard](https://github.com/MohammadaminAlbooyeh/real_time_analytics_dashboard)** | Real-time analytics dashboard: WebSocket metric streaming, time-series analytics (TimescaleDB), custom alert rules, multi-dashboard management | Python, FastAPI, React, TimescaleDB, Kafka |
 | **[distributed_task_queue](https://github.com/MohammadaminAlbooyeh/distributed_task_queue)** | Distributed task queue with async workers, priority queues, automatic retries, and fault isolation | Python, FastAPI, Redis, PostgreSQL |
-| **[banking-core](https://github.com/MohammadaminAlbooyeh/banking-core)** | Core banking backend with accounts, transactions, and ledger consistency | Java, Spring Boot, Spring Data JPA, PostgreSQL |
 
 <details>
 <summary><b>More projects</b></summary>
 
 <br>
 
+**AI / Agents**
+- [multi-agent-system](https://github.com/MohammadaminAlbooyeh/multi-agent-system) — MARES: 5 specialized LLM agents (Planner, Research, Execution, Critic, Synthesizer) via a DAG orchestrator, async parallel execution, two-tier memory
+- [mcp_agent_system](https://github.com/MohammadaminAlbooyeh/mcp_agent_system) — Production-ready MCP agent with 15+ tools (web, database, file, email, code), ReAct loop with self-reflection
+- [langgraph_workflow_engine](https://github.com/MohammadaminAlbooyeh/langgraph_workflow_engine) — Visual engine for multi-agent workflows: drag-and-drop React builder, 15+ node types, conditional routing, human-in-the-loop approval
+
 **Java / Spring Boot**
-- [telecom-billing-system](https://github.com/MohammadaminAlbooyeh/telecom-billing-system) — Telecom billing backend
-- [inventory-service](https://github.com/MohammadaminAlbooyeh/inventory-service) — Inventory microservice
+- [telecom-billing-system](https://github.com/MohammadaminAlbooyeh/telecom-billing-system) — Telecom billing platform: Kafka CDR ingestion, usage rating engine, Spring Batch invoicing
+- [inventory-service](https://github.com/MohammadaminAlbooyeh/inventory-service) — Inventory microservice with Redis stock locks and Kafka saga participation
 - [cart-service](https://github.com/MohammadaminAlbooyeh/cart-service) — Shopping cart microservice
-- [product-search-engine](https://github.com/MohammadaminAlbooyeh/product-search-engine) — Product search service
-- [digital-library-platform](https://github.com/MohammadaminAlbooyeh/digital-library-platform) — Digital library backend
+- [product-search-engine](https://github.com/MohammadaminAlbooyeh/product-search-engine) — Seller crawlers, Elasticsearch ranking, Kafka price events, price-drop alerts
+- [digital-library-platform](https://github.com/MohammadaminAlbooyeh/digital-library-platform) — JWT auth, DRM/content encryption, S3 + KMS delivery, Kafka reading events
 
 **Python backend & infrastructure**
-- [microservices_orchestrator](https://github.com/MohammadaminAlbooyeh/microservices_orchestrator) — Multi-service orchestration with fault isolation
 - [api_gateway_with_rate_limiting](https://github.com/MohammadaminAlbooyeh/api_gateway_with_rate_limiting) — API gateway with Redis-backed rate limiting and routing
 - [user_authentication_API](https://github.com/MohammadaminAlbooyeh/user_authentication_API) — JWT auth with role-based access control
 - [order_processing_system](https://github.com/MohammadaminAlbooyeh/order_processing_system) — Order processing microservices with JWT auth and async notifications
@@ -104,35 +114,28 @@ millions of users online.
 
 ---
 
-## Mobile
-
-Beyond backend systems, I also ship consumer-facing Android apps in Kotlin — currently in
-Google Play's review/deployment pipeline:
-
-- 📱 **NettoFacile** — Net salary calculator app (Kotlin) *(pending Google Play release)*
-- 📱 **BuildCalc** — Construction/building cost calculator app (Kotlin) *(pending Google Play release)*
-
----
-
 ## Tech Stack
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python (advanced), Java 17, SQL, Bash |
+| **Languages** | Python (advanced), Java 17/21, Kotlin, SQL, Bash |
 | **Frameworks** | FastAPI, Django, Flask, Spring Boot 3, Spring Data JPA |
-| **Databases & search** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch |
+| **AI / Agents** | LangGraph, Model Context Protocol (MCP), multi-agent orchestration |
+| **Databases & search** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, TimescaleDB |
 | **Async & messaging** | Kafka, Celery, RabbitMQ, Amazon SQS |
 | **Cloud & DevOps** | AWS, Azure, DigitalOcean, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Linux |
 | **Architecture** | Microservices, Event-Driven Architecture, Saga / Outbox patterns, Clean Architecture, REST API design |
 | **Testing & observability** | Pytest, JUnit, integration testing, Prometheus, Grafana, Jaeger |
+
+Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the side (BuildCalc, NettoFacile — in closed testing on Google Play).
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
