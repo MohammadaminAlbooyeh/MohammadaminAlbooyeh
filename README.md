@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:233F94&height=200&section=header&text=Amin%20Albooyeh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Python%20%26%20Java%20%7C%20Distributed%20Systems&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+systems+that+don't+fall+over+in+production;Event-driven+microservices+%7C+Async+pipelines+%7C+High-throughput+APIs;Now+shipping+production+AI+agent+services+too" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+systems+that+don't+fall+over+in+production;Event-driven+microservices+%7C+Async+pipelines+%7C+High-throughput+PIs;Now+shipping+production+AI+agent+services+too" alt="Typing SVG" />
 </a>
 
 📍 Turin, Italy · Open to backend roles (remote or Italy-based) · 10+ years shipping production systems
@@ -132,16 +132,16 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&synthwave&hide_border=true&count_private=true" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&theme=radical&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&theme=synthwave&hide_border=true" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&theme=react-dark&hide_border=true" alt="Activity graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&stheme=synthwave&hide_border=true" alt="Activity graph" width="90%" />
 </p>
 
 ---
