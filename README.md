@@ -1,19 +1,17 @@
 <div align="center">
 
-# Amin Albooyeh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:233F94&height=200&section=header&text=Amin%20Albooyeh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Python%20%26%20Java%20%7C%20Distributed%20Systems&descAlignY=58&descSize=18" />
 
-### Senior Backend Engineer — Python & Java · Distributed Systems · 10+ Years
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+systems+that+don't+fall+over+in+production;Event-driven+microservices+%7C+Async+pipelines+%7C+High-throughput+APIs;Now+shipping+production+AI+agent+services+too" alt="Typing SVG" />
+</a>
 
-Turin, Italy · Open to backend roles (remote or Italy-based)
-
-**I build backend systems that don't fall over in production.**
-Event-driven microservices, async task pipelines, high-throughput APIs, and the cloud
-infrastructure that runs them — the unglamorous engineering that keeps platforms with
-millions of users online.
+📍 Turin, Italy · Open to backend roles (remote or Italy-based) · 10+ years shipping production systems
 
 [![Email](https://img.shields.io/badge/Email-amin.albooyeh%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:amin.albooyeh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amin%20Albooyeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-albooyeh-95a541176/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=flat-square&logo=vercel&logoColor=white)](https://showcase-website-cql3.vercel.app/)
+![Profile views](https://komarev.com/ghpvc/?username=MohammadaminAlbooyeh&style=flat-square&color=0A66C2&label=Profile+views)
 
 <br>
 
@@ -69,10 +67,10 @@ millions of users online.
 | Project | What it does | Stack |
 |---|---|---|
 | **[scalable-ecommerce-platform](https://github.com/MohammadaminAlbooyeh/scalable-ecommerce-platform)** | E-commerce backend of 14 microservices with Kong gateway, Kafka event flows, and Kubernetes + Terraform deployment | Python/FastAPI, Java/Spring Boot, Kafka, Kong, Kubernetes, Terraform |
-| **[fastapi_mcp_agent_service](https://github.com/MohammadaminAlbooyeh/fastapi_mcp_agent_service)** | Production AI agent service on the Model Context Protocol: DB/file/API tools, human-in-the-loop approval, SSRF-protected tool calls | Python, FastAPI, LangGraph, MCP |
+| **[fastapi_mcp_agent_service](https://github.com/MohammadaminAlbooyeh/fastapi_mcp_agent_service)** | Production AI agent orchestration service: multi-agent routing with tool access to DB/files/external APIs, human-in-the-loop approval for sensitive operations, SSE streaming, Redis caching, SSRF-protected tool calls | Python, FastAPI, LangGraph, MCP |
 | **[microservices_orchestrator](https://github.com/MohammadaminAlbooyeh/microservices_orchestrator)** | Lightweight orchestration platform for deploying and scaling services across a cluster — rolling / blue-green / canary deploys, etcd service discovery | Python, FastAPI, React, etcd |
 | **[order-service](https://github.com/MohammadaminAlbooyeh/order-service)** | Order lifecycle microservice: Kafka saga orchestration with compensation, transactional outbox, idempotent consumers, dead-letter topics | Java 17, Spring Boot 3, Kafka, PostgreSQL |
-| **[rate-limiter-service](https://github.com/MohammadaminAlbooyeh/rate-limiter-service)** | Multi-tenant rate limiting with 5 algorithms (Token Bucket, Sliding Window, Leaky Bucket…) on Redis + atomic Lua scripts; sustains 10k+ req/s in load tests | Python, FastAPI, Redis, Lua |
+| **[rate-limiter-service](https://github.com/MohammadaminAlbooyeh/rate-limiter-service)** | Multi-tenant rate-limiting microservice with 5 algorithms (Token Bucket, Sliding Window, Leaky Bucket…) on Redis + atomic Lua scripts, exposed as a REST API; sustains 10k+ req/s in load tests | Python, FastAPI, Redis, Lua |
 | **[streaming-data-processor](https://github.com/MohammadaminAlbooyeh/streaming-data-processor)** | Kafka event streaming pipeline: parallel consumer groups for enrichment, windowed aggregation, fraud detection at 50k+ events/min, WebSocket dashboard | Python, Kafka, WebSocket |
 | **[real_time_analytics_dashboard](https://github.com/MohammadaminAlbooyeh/real_time_analytics_dashboard)** | Real-time analytics dashboard: WebSocket metric streaming, time-series analytics (TimescaleDB), custom alert rules, multi-dashboard management | Python, FastAPI, React, TimescaleDB, Kafka |
 | **[distributed_task_queue](https://github.com/MohammadaminAlbooyeh/distributed_task_queue)** | Distributed task queue with async workers, priority queues, automatic retries, and fault isolation | Python, FastAPI, Redis, PostgreSQL |
@@ -88,11 +86,11 @@ millions of users online.
 - [langgraph_workflow_engine](https://github.com/MohammadaminAlbooyeh/langgraph_workflow_engine) — Visual engine for multi-agent workflows: drag-and-drop React builder, 15+ node types, conditional routing, human-in-the-loop approval
 
 **Java / Spring Boot**
-- [telecom-billing-system](https://github.com/MohammadaminAlbooyeh/telecom-billing-system) — Telecom billing platform: Kafka CDR ingestion, usage rating engine, Spring Batch invoicing
-- [inventory-service](https://github.com/MohammadaminAlbooyeh/inventory-service) — Inventory microservice with Redis stock locks and Kafka saga participation
-- [cart-service](https://github.com/MohammadaminAlbooyeh/cart-service) — Shopping cart microservice
+- [telecom-billing-system](https://github.com/MohammadaminAlbooyeh/telecom-billing-system) — Telecom billing platform (Java 21, Spring Boot 3): Kafka CDR ingestion, pluggable rating engine (call/data/SMS/tiered), Spring Batch monthly invoicing, Flyway-managed PostgreSQL schema
+- [inventory-service](https://github.com/MohammadaminAlbooyeh/inventory-service) — Inventory microservice (Java 17) with Redis stock locks and Kafka saga participation with compensation
+- [cart-service](https://github.com/MohammadaminAlbooyeh/cart-service) — Shopping cart microservice (Java 17), part of the order/inventory/cart saga suite with transactional outbox
 - [product-search-engine](https://github.com/MohammadaminAlbooyeh/product-search-engine) — Seller crawlers, Elasticsearch ranking, Kafka price events, price-drop alerts
-- [digital-library-platform](https://github.com/MohammadaminAlbooyeh/digital-library-platform) — JWT auth, DRM/content encryption, S3 + KMS delivery, Kafka reading events
+- [digital-library-platform](https://github.com/MohammadaminAlbooyeh/digital-library-platform) — Java 17 + FastAPI: JWT auth, DRM/content encryption, S3 + KMS delivery, Kafka reading events
 
 **Python backend & infrastructure**
 - [api_gateway_with_rate_limiting](https://github.com/MohammadaminAlbooyeh/api_gateway_with_rate_limiting) — API gateway with Redis-backed rate limiting and routing
@@ -138,6 +136,18 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-trophy.vercel.app/?username=MohammadaminAlbooyeh&theme=flat&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&theme=default&hide_border=true" alt="Streak stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&theme=minimal&hide_border=true" alt="Activity graph" width="90%" />
+</p>
+
 ---
 
 <div align="center">
@@ -152,3 +162,5 @@ architecture actually matter.
 [![Portfolio](https://img.shields.io/badge/View-Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://showcase-website-cql3.vercel.app/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:233F94,100:0A66C2&height=100&section=footer" />
