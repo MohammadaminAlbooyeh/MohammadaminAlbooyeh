@@ -132,16 +132,16 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-</p
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="Streak stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity graph" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&theme=radical&hide_border=true" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&theme=react-dark&hide_border=true" alt="Activity graph" width="90%" />
 </p>
 
 ---
