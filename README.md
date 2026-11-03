@@ -132,20 +132,16 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+</p
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="Streak stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-trophy.vercel.app/?username=MohammadaminAlbooyeh&theme=flat&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&theme=default&hide_border=true" alt="Streak stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&theme=minimal&hide_border=true" alt="Activity graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity graph" width="90%" />
 </p>
 
 ---
