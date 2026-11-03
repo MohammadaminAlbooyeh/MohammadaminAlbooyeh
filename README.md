@@ -132,16 +132,16 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&synthwave&hide_border=true&count_private=true" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&theme=synthwave&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&theme=gruvbox&hide_border=true" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&stheme=synthwave&hide_border=true" alt="Activity graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&theme=gruvbox&hide_border=true" alt="Activity graph" width="90%" />
 </p>
 
 ---
