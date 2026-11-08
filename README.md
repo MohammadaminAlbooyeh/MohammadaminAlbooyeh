@@ -131,17 +131,18 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 
 ## `GitHub Stats`
 
+<p align="center"><samp>CONTRIBUTIONS &nbsp; / &nbsp; STREAKS</samp></p>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&hide_border=true&locale=en&bg_color=FFFFFF&title_color=0A66C2&text_color=334155&icon_color=0F766E&count_private=true" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true&locale=en&bg_color=FFFFFF&title_color=0A66C2&text_color=334155&icon_color=0F766E&langs_count=8" alt="Top languages" />
+  <a href="https://github.com/MohammadaminAlbooyeh#contributions-calendar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&amp;hide_border=false&amp;border=DBEAFE&amp;border_radius=16&amp;card_width=580&amp;locale=en&amp;background=FFFFFF&amp;stroke=CBD5E1&amp;ring=0A66C2&amp;fire=0F766E&amp;currStreakNum=0A66C2&amp;sideNums=0A66C2&amp;currStreakLabel=0A66C2&amp;sideLabels=0F766E&amp;dates=475569" width="580" alt="GitHub contributions, current streak, and longest streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&hide_border=true&locale=en&background=FFFFFF&stroke=CBD5E1&ring=0A66C2&fire=0F766E&currStreakNum=0A66C2&sideNums=0A66C2&currStreakLabel=0A66C2&sideLabels=0F766E&dates=475569" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&hide_border=true&bg_color=FFFFFF&color=0A66C2&line=0A66C2&point=0F766E" alt="Activity graph" width="90%" />
+  <a href="https://github.com/MohammadaminAlbooyeh#contributions-calendar"><strong>Contribution calendar</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/MohammadaminAlbooyeh?tab=repositories"><strong>Browse repositories</strong></a>
 </p>
 
 ---
