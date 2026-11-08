@@ -132,16 +132,16 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&hide_border=true&locale=en&bg_color=FFFFFF&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&count_private=true" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true&locale=en&bg_color=FFFFFF&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&hide_border=true&locale=en&bg_color=FFFFFF&title_color=0A66C2&text_color=334155&icon_color=0F766E&count_private=true" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaminAlbooyeh&layout=compact&hide_border=true&locale=en&bg_color=FFFFFF&title_color=0A66C2&text_color=334155&icon_color=0F766E&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&hide_border=true&locale=en&background=FFFFFF&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakNum=0A66C2&sideNums=0A66C2&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=0A66C2" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadaminAlbooyeh&hide_border=true&locale=en&background=FFFFFF&stroke=CBD5E1&ring=0A66C2&fire=0F766E&currStreakNum=0A66C2&sideNums=0A66C2&currStreakLabel=0A66C2&sideLabels=0F766E&dates=475569" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&hide_border=true&bg_color=FFFFFF&color=0A66C2&line=0A66C2&point=0A66C2" alt="Activity graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadaminAlbooyeh&hide_border=true&bg_color=FFFFFF&color=0A66C2&line=0A66C2&point=0F766E" alt="Activity graph" width="90%" />
 </p>
 
 ---
