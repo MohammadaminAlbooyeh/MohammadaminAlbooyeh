@@ -129,7 +129,7 @@ Also shipping a couple of consumer Android apps in Kotlin/Jetpack Compose on the
 
 ---
 
-## GitHub Stats
+## `GitHub Stats`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadaminAlbooyeh&show_icons=true&hide_border=true&locale=en&bg_color=FFFFFF&title_color=0A66C2&text_color=334155&icon_color=0F766E&count_private=true" alt="GitHub stats" />
